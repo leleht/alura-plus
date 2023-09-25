@@ -2,9 +2,9 @@
     --branco-principal: #ffffff;
     --cinza-secundario: #fafafa;
     --botao-azul: #051a34;
-    --cor-de-fundo: #edf0f8;
+    --cor-de-fundo: #000000;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #78147a;
+    --botao-azul-efeito: #131581;
 }
 
 body {
